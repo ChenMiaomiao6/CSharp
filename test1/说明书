@@ -29,6 +29,7 @@ zk≠xm则Z∈LCS(Xm-1 , Y)；
                                             →max{LCS（Xm-1，Y），LCS（X，Yn-1）}
 zk≠yn，则Z∈LCS(X , Yn-1)；
 
+
 6.程序代码
 Procedure LCS_LENGTH(X,Y);
 begin
